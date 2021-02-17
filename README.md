@@ -13,7 +13,7 @@ The Python file `homework_three.py` calls in the random numbers and the distribu
 # Fourth Homework
 
 ## 1) Generating exponential distribution of cookie dissapereance
-The Python file `CookieTimer.py` gives the `sample_output.txt` as a output. I chose rate = 2.1, Nmeas = 70 and Nexp = 10000 .
+The Python file `CookieTimer.py` gives the `sample_output.txt` as a output. I chose rate = 2, Nmeas = 70 and Nexp = 10000 .
 
 ## 2) Making the histogram plot by reading the `sample_output.txt` file
 The Python file `CookieAnalysis.py` generates two plots `timevspr.png` and `avgtimevspr.png`. The `avgtimes.png` has been labelled showing 1 sigma and 2 sigma positions.
